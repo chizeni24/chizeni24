@@ -16,6 +16,9 @@
     <a href="https://leetcode.com/echizeni24">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <a href= "https://tryhackme.com/r/badges">
+        <img src= "https://img.shields.io/badge/tryhackme-green?style=flat-square&logo=tryhackme"
+    </a>
 </p>
 
 ### Languages
