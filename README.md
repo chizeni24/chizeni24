@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Echizeni<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        I am learning to walk in ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/echizeni-ikpah">
@@ -16,8 +16,8 @@
     <a href="https://leetcode.com/echizeni24">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
-    <a href= "https://tryhackme.com/r/badges">
-        <img src= "https://img.shields.io/badge/tryhackme-green?style=flat-square&logo=tryhackme"
+    <a href= "https://tryhackme.com/p/ciruszen">
+        <img src= "https://img.shields.io/badge/tryhackme-blue?style=flat-square&logo=tryhackme"
     </a>
 </p>
 
